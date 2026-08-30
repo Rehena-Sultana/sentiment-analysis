@@ -1,0 +1,4 @@
+Movie Review,Sentiment,timestamp
+"This movie was an absolute masterpiece, the acting and story blew me away.","{""label"": null, ""confidences"": null}",2026-08-30 17:05:29.391815
+"This movie was an absolute masterpiece, the acting and story blew me away.","{""label"": ""Positive"", ""confidences"": [{""label"": ""Positive"", ""confidence"": 0.7725215554237366}, {""label"": ""Negative"", ""confidence"": 0.22747844457626343}]}",2026-08-30 17:08:41.811435
+,"{""label"": null, ""confidences"": null}",2026-08-30 17:09:11.608356
