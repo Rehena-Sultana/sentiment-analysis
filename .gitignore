@@ -23,5 +23,9 @@ Thumbs.db
 # Environment variables / secrets
 .env
 
+# Gradio
+.gradio/
+flagged/
+
 # Large data files (uncomment if you don't want raw CSV in git)
-# IMDB Dataset.csv
+# IMDB Dataset.csv

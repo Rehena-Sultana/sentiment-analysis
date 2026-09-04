@@ -1,5 +1,6 @@
-tensorflow>=2.15.0
-gradio>=4.0.0
+tensorflow-cpu>=2.15.0; sys_platform == 'linux'
+tensorflow>=2.15.0; sys_platform != 'linux'
+streamlit>=1.30.0
 numpy
 beautifulsoup4
 nltk
